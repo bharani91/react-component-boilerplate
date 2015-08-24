@@ -38,6 +38,6 @@ Include dependencies in ```package.json``` like so:
 3. ```gulp dist```: Creates distributable version of JS & CSS. The generated files can be included directly in any other component via script/style tags.
 
 
-
+----------
 
 **[bharanim](https://www.resumonk.com/bharani) | [Twitter](http://twitter.com/bharani91)**
